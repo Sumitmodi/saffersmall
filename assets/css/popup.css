@@ -1,0 +1,35 @@
+/* 
+    Created on : Oct 23, 2014, 7:09:48 PM
+    Author     : ioesandeep
+*/
+body div.layer-last{
+    position:fixed;
+    width:100%;
+    background:rgba(00,00,00,0.5);
+    left:0;
+    top:0;
+    bottom:0;
+    z-index: 99999999;
+}
+div.layer-last *{
+    color:#FFF;
+    font-family:'patua',proxima-bold;
+}
+.layer-last .layer-cen{
+    position:relative;
+    top:150px;
+    left:25%;
+    min-width:250px;
+    min-height:100px;
+    background-color:rgba(255,255,255,1);	
+    display: inline-block
+}
+div.layer-cen *{
+    color: rgba(0, 120, 0, 0.7);
+    font-family: "Open Sans",sans-serif;
+}
+div.layer-data{
+    width:auto;
+    height:auto;
+    padding:20px;
+}

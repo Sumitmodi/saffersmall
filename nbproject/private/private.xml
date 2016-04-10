@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>application/views/business/account.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>98</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/controllers/ui/product/product.php</file>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/controllers/ui/home/home.php</file>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/views/search/search.php</file>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/controllers/entry.php</file>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/config/routes.php</file>
+            <file>file:/C:/xampp/htdocs/saffersmall/application/views/ui/ad_details.php</file>
+        </group>
+    </open-files>
+</project-private>
